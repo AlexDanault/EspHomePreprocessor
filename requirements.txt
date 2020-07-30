@@ -1,0 +1,2 @@
+pyyaml>=3.12
+colorama>=0.4.1
