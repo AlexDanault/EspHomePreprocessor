@@ -37,7 +37,7 @@ setup(
             'ehpp = ehpp.__main__:main'
         ]
     },
-    project_urls={  # Optional
+    project_urls={
         'Bug Reports': 'https://github.com/AlexDanault/EspHomePreprocessor/issues',
         'Source': 'https://github.com/AlexDanault/EspHomePreprocessor',
     },
